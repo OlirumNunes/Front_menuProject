@@ -1,4 +1,4 @@
-# Menu project Front-end 'p1'
+# Menu project Front-end
 
 <p align="center">
     <img src="https://github.com/OlirumNunes/Chess_System/assets/150186772/cb1c13da-e276-45be-badc-37fe5054d2bd" width="200px">
